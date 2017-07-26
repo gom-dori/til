@@ -10,4 +10,4 @@
 
 #### [2017-07-26](https://github.com/gom-dori/til/blob/master/md/2017_07_26.md)
 
-- FCCS02_ python basic (dictionary, set, list comprehension)
+- FCCS03_ python basic (dictionary, set, list comprehension)
