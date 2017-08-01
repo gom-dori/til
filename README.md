@@ -1,13 +1,14 @@
 # TIL(Today I Learned)
 
-#### [2017-07-24](https://github.com/gom-dori/til/blob/master/md/2017_07_24.md)
+- **md/**
 
-- FCCS01_ git,  python basic(math)
+  summary.md
 
-#### [2017-07-25](https://github.com/gom-dori/til/blob/master/md/2017_07_25.md)
+- **python/**
 
-- FCCS02_ python basic (list, condtional, strings)
+  examples.py
 
-#### [2017-07-26](https://github.com/gom-dori/til/blob/master/md/2017_07_26.md)
+- **practice-python**/
 
-- FCCS03_ python basic (dictionary, set, list comprehension)
+  jupyter notebook files
+
