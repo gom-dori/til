@@ -1,7 +1,3 @@
-# TIL (Today I Learned)
-
-## 2017-08-05
-
 ## codecademy(HTML&CSS)
 
 ### 01. HTML STRUCTURE
@@ -61,13 +57,19 @@
 </html>
 ```
 
-`<a herf="#" target="_blank"><img scr="#"/ alt="_#"></a>`
+`<a herf="#" target="_blank"><img src="#"/ alt="_#"></a>`
 
 `<img />` = this tag is *self-closing* elements
 
 `href` = Hyperlink REFerence
 
 `target` = attribute specifies that a link should open in a new window.
+
+`<p></p>` = paragraph 
+
+`<ol></ol>` `<ul></ul>` = (un)orderd list
+
+`<li></li>` = list elements
 
 `<a></a>` = anchor
 
@@ -76,6 +78,18 @@
 The value of `alt` should be a description of the image.
 
 `<br/>` = line break
+
+
+
+---
+
+### 03. THE CSS SETUP 
+
+
+
+
+
+
 
 
 
