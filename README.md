@@ -12,6 +12,6 @@
 
   jupyter notebook files
   
-  **reference/**
+- **reference/**
   
   lecture references
