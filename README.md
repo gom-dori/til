@@ -2,13 +2,16 @@
 
 - **md/**
 
-  summary.md
+  daily summary.md
 
 - **python/**
 
-  examples.py
+  examples
 
-- **practice-python**/
+- **practice-python/**
 
   jupyter notebook files
-
+  
+  **reference/**
+  
+  lecture references
